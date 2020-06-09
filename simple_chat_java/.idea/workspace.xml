@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c20f72d6-ca4f-4f70-875b-ce05eec32e34" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cXB6sUec4wFdLW1gqaKAvPBhfV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.ClientWindow">
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.chat.server.ChatServer" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.chat.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.chat.client.ClientWindow" />
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.chat.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientWindow" />
+        <item itemvalue="Application.ChatServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c20f72d6-ca4f-4f70-875b-ce05eec32e34" name="Default Changelist" comment="" />
+      <created>1590664886001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590664886001</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="26" key="#Project_Structure" timestamp="1590668549061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1590668549061" />
+    <state x="829" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1590670206360">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="829" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590670206360" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1590664992847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590664992847" />
+    <state width="623" height="174" key="GridCell.Tab.0.bottom" timestamp="1590670820008">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590670820008" />
+    <state width="623" height="174" key="GridCell.Tab.0.center" timestamp="1590670820007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590670820007" />
+    <state width="623" height="174" key="GridCell.Tab.0.left" timestamp="1590670820007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590670820007" />
+    <state width="623" height="174" key="GridCell.Tab.0.right" timestamp="1590670820008">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590670820008" />
+    <state x="66" y="0" key="new project wizard" timestamp="1590665192429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="66" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590665192429" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590667570502">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590667570502" />
+  </component>
+</project>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Игра в загадки</title>
+	<link rel="stylesheet" href="style.css">
+	<script type="text/javascript">
+		
+		var score = 0;
+
+		function checkAnswer(inputId, answers) {
+
+			var userAnswer = document.getElementById(inputId).value;
+			userAnswer = userAnswer.toLowerCase();
+			for (var i = 0; i < answers.length; i++) {
+				if (userAnswer == answers[i]) {
+					score++;
+					break;
+				}
+			}
+
+		}
+
+		function checkAnswers() {
+
+		checkAnswer("userAnswer1", ["ёлка", "елка"]);
+		checkAnswer("userAnswer2", ["ножницы"]);
+		checkAnswer("userAnswer3", ["часы", "часики"]);		
+
+		alert ("Вы отгадали " + score + " загадок");
+		
+		}
+		
+
+
+
+	</script>
+</head>
+<body>
+	<div class="content">
+	<div class="header">
+		<a href="index.html">Главная</a>
+		<a href="#">Загадки</a>
+		<a href="guess.html">Угадайка</a>
+	</div>
+
+<div class="contentWrap">
+	<div class="content">
+
+			<h1 >Игра в загадки</h1>
+
+			<div class="box">
+
+				<p>Зимой и летом одним цветом. Что это?</p>
+				<input type="text" id="userAnswer1">
+
+				<p>Два конца, два кольца, посредине гвоздик. 
+				Что это?</p>
+				<input type="text" id="userAnswer2">
+
+				<p>Без рук, без ног, а ходить умеют. Что это?</p>
+				<input type="text" id="userAnswer3">
+
+				<br>
+				<a href="#" onclick="checkAnswers();">Ответить</a>
+
+			</div>
+
+		</div>
+	</div>
+</div>
+
+<div class="footer"> CopyRigth &copy; Abubakirov Timur
+</div>
+
+</body>
+</html>

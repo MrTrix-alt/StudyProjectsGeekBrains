@@ -1,3 +1,5 @@
+-- База данных интернет-магазина кроссовок с заказами --
+
 CREATE SCHEMA `sneakershop` ; 
 
 ALTER SCHEMA `sneakershop`  DEFAULT CHARACTER SET utf8  DEFAULT COLLATE utf8_general_ci ;

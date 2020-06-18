@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65812fb7-108b-4dd0-bcd0-e76bc1d8f349" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1akvIDa0nJWNgja4tBHUiqJm1P0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.AskMe">
+    <configuration name="AskMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enum.AskMe" />
+      <module name="WEB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoundedWildCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.BoundedWildCard" />
+      <module name="WEB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enum.EnumDemo" />
+      <module name="WEB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enum.EnumDemo2" />
+      <module name="WEB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enum.EnumDemo3" />
+      <module name="WEB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BoundedWildCard" />
+      <item itemvalue="Application.EnumDemo" />
+      <item itemvalue="Application.EnumDemo2" />
+      <item itemvalue="Application.EnumDemo3" />
+      <item itemvalue="Application.AskMe" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AskMe" />
+        <item itemvalue="Application.EnumDemo3" />
+        <item itemvalue="Application.EnumDemo2" />
+        <item itemvalue="Application.EnumDemo" />
+        <item itemvalue="Application.BoundedWildCard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65812fb7-108b-4dd0-bcd0-e76bc1d8f349" name="Default Changelist" comment="" />
+      <created>1587292323599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587292323599</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="248" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587751133215">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="248" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1587751133215" />
+    <state x="528" y="104" key="FileChooserDialogImpl" timestamp="1587669109365">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="528" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587669109365" />
+    <state width="623" height="145" key="GridCell.Tab.0.bottom" timestamp="1592133056588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="145" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592133056588" />
+    <state width="623" height="145" key="GridCell.Tab.0.center" timestamp="1592133056588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="145" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592133056588" />
+    <state width="623" height="145" key="GridCell.Tab.0.left" timestamp="1592133056587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="145" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592133056587" />
+    <state width="623" height="145" key="GridCell.Tab.0.right" timestamp="1592133056588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="145" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592133056588" />
+    <state width="623" height="164" key="GridCell.Tab.1.bottom" timestamp="1592133056575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="164" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592133056575" />
+    <state width="623" height="164" key="GridCell.Tab.1.center" timestamp="1592133056574">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="164" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592133056574" />
+    <state width="623" height="164" key="GridCell.Tab.1.left" timestamp="1592133056574">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="164" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592133056574" />
+    <state width="623" height="164" key="GridCell.Tab.1.right" timestamp="1592133056575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="164" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592133056575" />
+    <state width="471" height="726" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1588148944723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="471" height="726" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1366.728@0.0.1366.728" timestamp="1588148944723" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1592131390964">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592131390964" />
+    <state x="131" y="0" key="new project wizard" timestamp="1588166501377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588166501377" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1587492223964">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587492223964" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590477286922">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590477286922" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Inheritance/Box.java</url>
+          <line>100</line>
+          <properties class="Inheritance.DemoBoxWeight" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Polymorphism/Figure1.java</url>
+          <line>25</line>
+          <properties class="Polymorphism.FigureDemo" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exceptions/ExceptionChain/ChainExcDemo.java</url>
+          <line>14</line>
+          <properties class="Exceptions.ExceptionChain.ChainExcDemo" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/ArrayTwo.java</url>
+          <line>3</line>
+          <properties class="com.ArrayTwo" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/Test/ArrayTriple.java</url>
+          <line>3</line>
+          <properties class="com.Test.ArrayTriple" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Multithreading/A.java</url>
+          <line>62</line>
+          <properties class="Multithreading.DeadLock" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Enum/AppleTwo.java</url>
+          <line>8</line>
+          <properties class="Enum.EnumDemo3" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Enum/Answers.java</url>
+          <line>56</line>
+          <properties class="Enum.AskMe" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClassesAndMethodes/OverLoadConstructor.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NestedInnerClasses/Outer1.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Inheritance/RefDemo.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interface/TestInterface.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interface/FixedStack.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interface/IFTEST3.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interface/DefaultMethod/MyIFImp2.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KindOfAcceses/NewStack.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NestedInnerClasses/Outer1.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Vargs/VarArgs.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Multithreading/NewThread4.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Generics/Stat.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Generics/TwoD.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Enum/Apple.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WEB$SuspendResume.ic" NAME="SuspendResume Coverage Results" MODIFIED="1589530719756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Multithreading.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/WEB$RecursionExample.ic" NAME="RecursionExample Coverage Results" MODIFIED="1588148449413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ClassesAndMethodes.*</FILTER>
+    </SUITE>
+  </component>
+</project>

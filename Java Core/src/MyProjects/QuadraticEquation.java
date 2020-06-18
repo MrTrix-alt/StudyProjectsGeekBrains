@@ -1,0 +1,4 @@
+package MyProjects;
+
+class QuadraticEquation {
+}

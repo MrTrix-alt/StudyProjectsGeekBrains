@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="attoparser">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../libraries/attoparser" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../libraries/attoparser" recursive="false" />
+  </library>
+</component>

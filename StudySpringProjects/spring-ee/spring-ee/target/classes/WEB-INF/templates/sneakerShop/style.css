@@ -1,0 +1,389 @@
+.noMarkers {
+    list-style-type: none;
+    display: flex;
+}
+
+.background {
+    background-color: #F5F5F5;
+}
+
+.body {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    height: 500px;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    align-self: center;
+
+}
+
+.header {
+    position: relative;
+    height: 150px;
+    border-bottom: 1px solid #D3D3D3;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+
+.lic {
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+
+
+}
+
+.lic:hover {
+    background-color: black;
+    color: white;
+}
+
+.menu_in {
+    display: none;
+    flex-direction: column;
+    padding: 0;
+}
+
+
+.menu_li:hover .menu_in {
+    display: flex;
+}
+
+.downMenu {
+    display: block;
+    background-color: #fff;
+}
+
+.logoImg {
+    width: 150px;
+    height: 125px;
+}
+
+
+
+.cat_sneakers {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+
+.item {
+    width: 450px;
+    height: 450px;
+    border: 2px solid #eaeaea;
+}
+
+.item:hover {
+    border: 2px solid transparent;
+}
+
+.itemMainInfo {
+    float: left;
+    margin-right: 24px;
+}
+
+.nameShop {
+    font-size: 25px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.shortDescription {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+
+
+}
+
+.shortDescriptionBlock {
+    display: inline-block;
+    width: 500px;
+    margin-top: 50px;
+}
+
+.addItem {
+    width: 150px;
+    font-weight: 700;
+    text-align: center;
+    padding: .8em 1em calc(.8em + 3px);
+    border-radius: 3px;
+    background: #B0B0B0;
+    margin-top: 50px;
+}
+
+.buttonAdd {
+    text-decoration: none;
+    color: white;
+
+}
+
+
+.addItem:hover {
+    background: #7accee;
+}
+
+.addItem:active {
+    background: #7accee;
+}
+
+
+.footerBody {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+    border-top: 1px solid #C8C8C8;
+    background-color: #D3D3D3;
+    margin-top: 30px;
+
+
+}
+
+.foot {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-right: 10px;
+    font-size: 16px;
+    clear: both;
+}
+
+.foot:hover {
+    color: #909090;
+}
+
+
+.noMarkersFoot {
+    list-style-type: none;
+    display: block;
+    line-height: 2;
+}
+
+.copy {
+    margin-right: 40px;
+}
+
+
+
+
+.product {
+    width: 325px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.catalog {
+    width: 325px;
+    height: 325px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.product:hover .cat_sneakers {
+    background-color: #bebebe;
+    color: white;
+}
+
+.headingItem {
+    color: black;
+    font-weight: 400;
+    background-color: #eaeaea;
+    width: 140px;
+    text-align: center;
+}
+
+.characteristics {
+    margin-top: 32px;
+    overflow: hidden;
+
+
+}
+
+.one {
+    width: 200px;
+
+}
+
+.two {
+    width: 235px;
+}
+
+.three {
+    width: 150px;
+}
+
+.fullDescription {
+    color: #484343;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+
+}
+
+.headingWriteUs {
+    width: 396px;
+
+}
+
+.inputWind {
+    width: 300px;
+    height: 25px;
+    border: 1px solid #484343;
+    text-align: center;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+.inputWind:focus {
+    color: black;
+    background-color: #eaeaea;
+}
+
+.inputWindEm {
+    width: 300px;
+    height: 25px;
+    border: 1px solid #484343;
+    text-align: center;
+    font-style: italic;
+}
+
+
+.inputWindEm:focus {
+    color: black;
+    background-color: #eaeaea;
+}
+
+.textArea {
+    text-align: left;
+}
+
+.field {
+    padding-bottom: 5px;
+}
+
+.label {
+    display: block;
+    float: left;
+    width: 90px;
+
+}
+
+.buttonsCont {
+    margin-left: 135px;
+}
+
+.but {
+    font-size: 15px;
+    width: 100px;
+    height: 25px
+}
+
+.but:hover {
+    background-color: ghostwhite;
+}
+
+
+
+.map {
+    display: flex;
+    border: 5px solid #DCDCDC;
+    width: 500px;
+    height: 374px;
+}
+
+.content {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+table,
+td,
+th {
+    border: 1px solid transparent;
+}
+
+td,
+th {
+    padding: 3px;
+    width: 10px;
+    height: 25px;
+    text-align: right;
+}
+
+th {
+    background-color: #7accee;
+}
+
+
+
+.table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+.table th,
+.table td {
+    border: 1px solid transparent;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+}
+
+.table th,
+.table td {
+    border: 1px solid transparent;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+}
+
+.table td:hover {
+    background: #3dcfda54;
+}
+
+.table td:hover:before {
+    background-color: #eee;
+    content: '';
+    height: 100%;
+    left: -5000px;
+    position: absolute;
+    top: 0;
+    width: 10000px;
+    z-index: -2;
+}
+
+.table td:hover:after {
+    background-color: #eee;
+    content: '';
+    height: 10000px;
+    left: 0;
+    position: absolute;
+    top: -5000px;
+    width: 100%;
+    z-index: -1;
+}

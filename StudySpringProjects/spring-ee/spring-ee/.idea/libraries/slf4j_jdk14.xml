@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="slf4j-jdk14">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../libraries/slf4j-jdk14" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../libraries/slf4j-jdk14" recursive="false" />
+  </library>
+</component>

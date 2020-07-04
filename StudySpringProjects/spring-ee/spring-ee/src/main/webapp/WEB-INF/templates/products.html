@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>Spring MVC MarketApp</title>
+</head>
+
+<body>
+    <h1>Список кроссовок:</h1>
+    <table>
+        <thead>
+        <tr>
+            <td>Id</td>
+            <td>Название товара</td>
+            <td>Стоимость</td>
+            <td>Операции</td>
+        </tr>
+        </thead>
+        <tbody>
+        <!--/*@thymesVar id="products" type="java.util.List<com.gb.spring.ee.model.Product>"*/-->
+        <tr th:each="prod : ${products}">
+                <td th:text="${prod.id}"></td>
+                <td th:text="${prod.title}"></td>
+                <td th:text="${prod.cost}"></td>
+                <td><a th:href="@{'/products/edit/' + ${prod.id}}">Редактировать</a></td>
+        </tr>
+        </tbody>
+    </table>
+    <a th:href="@{/}">Главная страница</a>
+</body>
+</html>
